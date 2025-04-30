@@ -2,9 +2,12 @@
 Demo of how you can use as a mdict mdx reader and read a .mdict .mdx .mdd dictionary file
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ducfilan/MdictReader/master/Screenshot.png">
+<img src="https://raw.githubusercontent.com/mumu4u/MdictReader/master/Screenshot.png">
 </p>
-
+After update:
+<p align="center">
+<img src="https://raw.githubusercontent.com/mumu4u/MdictReader/master/DemoMdictReader-screenshot.png">
+</p>
 ---
 **All funding will be used to support orphans in SOS Children's Villages.**
 
